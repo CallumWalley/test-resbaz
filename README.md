@@ -1,6 +1,6 @@
 ## Collect feedback from workshop attendees
 
-- [] ROOM_1
+- [x] ROOM_1
 
 - [] ROOM_2
 
